@@ -4,11 +4,11 @@
     font-size: 40px;
   }
   .box-one {
-    padding: 20px;
-    margin: 20px;
-    border: 20px;
     background-color: red;
     border: 0 solid purple;
+    padding: 20px;
+    margin: 20px;
+    border-width: 20px;
   } 
   
   .box-two {
